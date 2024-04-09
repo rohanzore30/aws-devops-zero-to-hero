@@ -28,4 +28,3 @@ phases:
 #   files:
 #     - '**/*'
 #   base-directory: ../simple-python-app
-  
